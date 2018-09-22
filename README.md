@@ -29,7 +29,7 @@ define ('DB_User','root');
 ```html
 define ('DB_Password','1****6');
 ```
-Replace "root" and "1****6" with your own username and password of mySQL database.
+* Replace "root" and "1****6" with your own username and password of mySQL database.
 
 ----
 
